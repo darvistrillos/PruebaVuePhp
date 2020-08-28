@@ -1,2 +1,0 @@
-# PruebaVuePhp
-Prueba Vue - Php
