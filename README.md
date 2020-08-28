@@ -28,7 +28,7 @@ npm run dev
 
 # Before copy and paste the files Contacts.php y conexion.php at base_dir or /www of apache-server
 
-# Create mysql database called test and a table called contacts. Database user: root, password:
+# Create mysql database called test y and run the contacts.sql script from this directory. Database user: root, password:
 
 ```
 
