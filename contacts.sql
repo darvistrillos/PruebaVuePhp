@@ -1,0 +1,8 @@
+CREATE TABLE `contacts` (
+  `id` INT(11) NOT NULL AUTO_INCREMENT,
+  `Nombre` VARCHAR(70) DEFAULT '',
+  `Celular` VARCHAR(20) DEFAULT '',
+  `Email` VARCHAR(70) DEFAULT '',
+  KEY `id` (`id`)
+) ENGINE=INNODB AUTO_INCREMENT=0 DEFAULT CHARSET=latin1;
+

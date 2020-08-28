@@ -1,0 +1,49 @@
+.sizecon {
+    width: 350px;
+    display: block;
+    margin-left: 25px;
+}
+
+#labelform {
+    font-weight: bold;
+    color: #000;
+    text-align: left;
+    margin-left: 25px;
+}
+
+.rounde {
+    /* border-radius:arriba-izquierda arriba-derecha abajo-derecha abajo-izquierda; */
+    border-style: solid;
+    border-width: 0.1px;
+    border-color: beige;
+    border-radius: 10px 25px 25px 25px;
+}
+
+.colorboton {
+    background-color: #e03b64;
+    border-color: #e03b64;
+    border-radius: 25px 25px 25px 25px;
+    font-size: 15px;
+    width: 140px;
+    height: 48px;
+}
+
+#cuerpo-cont {
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+#img-logo {
+    margin-top: 35px;
+    width: 375px;
+    max-width: 140%;
+}

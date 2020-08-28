@@ -1,0 +1,12 @@
+*/Ejecutar estos comandos antes
+npm install
+npm install vue bootstrap-vue bootstrap
+npm install axios
+
+O ejecute simplmente el comando 
+npm install require
+
+npm run dev
+
+- Antes se deben subir los archivos Contacts.php y conexion.php a el directorio raiz o base del servidor apache-server  /www 
+- En una base de datos Mysql llamada test ejecute el script contacts.sql de este directorio
