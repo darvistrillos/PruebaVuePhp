@@ -28,12 +28,12 @@ npm run dev
 
 # Before copy and paste the files Contacts.php y conexion.php at base_dir or /www of apache-server
 
-
+# Create mysql database called test and a table called contacts. Database user: root, password:
 
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 =======
-# PruebaMaquetacionSigma
-Prueba maquetacion Sigma
+# PruebaVuePhp Tissini
+PruebaVuePhp Tissini
 >>>>>>> 6de8b3e4d390a998c2746a2105ed6a4b1566522d
